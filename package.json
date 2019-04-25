@@ -1,9 +1,9 @@
 {
-  "name": "rsevil-cordova-plugin-facebook4",
+  "name": "cordova-plugin-facebook4",
   "version": "3.0.0",
   "description": "Cordova Facebook SDK 4 Plugin",
   "cordova": {
-    "id": "rsevil-cordova-plugin-facebook4",
+    "id": "cordova-plugin-facebook4",
     "platforms": [
       "android",
       "ios",
